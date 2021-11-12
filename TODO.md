@@ -35,3 +35,17 @@ Log to CSV
 Does it need 'IE' awareness (managing multiple files to IE)
 
 table per IE?
+
+Aug 2021
+file size 
+jhove?
+self.message
+
+remove database
+needs to handle giving it filenames constructed by the user
+
+sometimes characters in URL/headers(?) are illegal for filenames
+
+module returns objects - external scripts can make use of object attributes
+
+safemover changes filenames - what are the rules it follows?
